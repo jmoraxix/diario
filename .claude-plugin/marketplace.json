@@ -1,5 +1,6 @@
 {
   "name": "jmoraxix",
+  "description": "Plugins de jmoraxix: skills para el día a día.",
   "owner": { "name": "jmoraxix" },
   "plugins": [
     {
