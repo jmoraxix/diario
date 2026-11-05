@@ -1,0 +1,23 @@
+{
+  "idioma": "es",
+  "orden": ["ejercicio", "clientes", "contenido"],
+  "modulos": {
+    "ejercicio": {
+      "activo": true,
+      "carpetas": ["~/Notas/Entrenamiento"],
+      "registro": "~/Documents/Entrenamiento/registro.xlsx",
+      "videos": true,
+      "notas": "Rodilla izquierda operada. Gimnasio con un par de KB de 20 kg y una de 16. Sin barra Smith."
+    },
+    "clientes": {
+      "activo": false,
+      "carpetas": ["~/Notas/Clientes"],
+      "notas": "Ejemplo de módulo futuro: outreach del día."
+    },
+    "contenido": {
+      "activo": false,
+      "carpetas": ["~/Notas/Contenido"],
+      "notas": "Ejemplo de módulo futuro: el video del día."
+    }
+  }
+}

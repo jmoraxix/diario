@@ -1,0 +1,6 @@
+{
+  "name": "diario",
+  "version": "0.1.0",
+  "description": "Skills diarias por módulo. Cada usuario apunta cada módulo a su propia carpeta de instrucciones en ~/.claude/diario/config.json.",
+  "author": { "name": "jmoraxix" }
+}

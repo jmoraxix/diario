@@ -1,0 +1,11 @@
+{
+  "name": "jmoraxix",
+  "owner": { "name": "jmoraxix" },
+  "plugins": [
+    {
+      "name": "diario",
+      "source": "./plugins/diario",
+      "description": "Skills para el día a día: un módulo por área (ejercicio, clientes, contenido...) y /diario:dia para correrlos todos."
+    }
+  ]
+}
